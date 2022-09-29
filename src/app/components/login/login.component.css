@@ -1,0 +1,14 @@
+.container {
+  text-align: center;
+  margin: auto;
+}
+
+.wrapper {
+  display: flex;
+  justify-content: center;
+  padding: 15px 15px;
+}
+
+form {
+  text-align: center;
+}
